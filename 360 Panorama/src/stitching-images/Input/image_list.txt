@@ -1,0 +1,11 @@
+# Filename   focal_length
+img(01).jpg	1090
+img(02).jpg	1090
+img(03).jpg	1090
+img(04).jpg	1090
+img(05).jpg	1090
+img(06).jpg	1090
+img(07).jpg	1090
+img(08).jpg	1090
+img(09).jpg	1090
+img(10).jpg	1090
