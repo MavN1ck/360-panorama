@@ -13,8 +13,8 @@ The input dir should have:
 
 <br />This is an example for image_list.txt:
 
-<br /><br />## Filename   focal_length
-DSC_0184.jpg 830<br /> 
+Filename   focal_length
+<br />DSC_0184.jpg 830<br /> 
 DSC_0185.jpg 830<br />
 DSC_0186.jpg 830<br /> 
 DSC_0187.jpg 830<br />
