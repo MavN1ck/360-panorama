@@ -6,14 +6,14 @@ Libraries used:
 
 # INPUT 
 The input dir should have:
-<br />* Some .png or .jpg images
-<br />* A image_list.txt, file should contain:
-<br />   * filename
-<br />   * focal_length
+* Some .png or .jpg images
+* A image_list.txt, file should contain:
+   ** filename
+   ** focal_length
 
 <br />This is an example for image_list.txt:
 
-<br /><br />Filename   focal_length
+<br /><br />## Filename   focal_length
 DSC_0184.jpg 830<br /> 
 DSC_0185.jpg 830<br />
 DSC_0186.jpg 830<br /> 
