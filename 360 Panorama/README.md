@@ -6,31 +6,33 @@ Libraries used:
 
 # INPUT 
 The input dir should have:
-* Some .png or .jpg images
-* A image_list.txt, file should contain:
-   * filename
-   * focal_length
-This is an example for image_list.txt:
-Filename   focal_length
-DSC_0184.jpg 830
-DSC_0185.jpg 830
-DSC_0186.jpg 830
-DSC_0187.jpg 830
-DSC_0171.jpg 830
-DSC_0172.jpg 830
-DSC_0173.jpg 830
-DSC_0174.jpg 830
-DSC_0175.jpg 830
-DSC_0176.jpg 830
-DSC_0177.jpg 830
+<br />* Some .png or .jpg images
+<br />* A image_list.txt, file should contain:
+<br />   * filename
+<br />   * focal_length
+
+<br />This is an example for image_list.txt:
+
+<br /><br />Filename   focal_length
+DSC_0184.jpg 830<br /> 
+DSC_0185.jpg 830<br />
+DSC_0186.jpg 830<br /> 
+DSC_0187.jpg 830<br />
+DSC_0171.jpg 830<br />
+DSC_0172.jpg 830<br />
+DSC_0173.jpg 830<br />
+DSC_0174.jpg 830<br />
+DSC_0175.jpg 830<br />
+DSC_0176.jpg 830<br />
+DSC_0177.jpg 830<br />
 
 
 # Output
 The program will output:
-* Every stitched images, with filename 0.jpg, 1.jpg, 2.jpg, ...
-* A aligned image aligned.jpg
-* A cropped image cropped.jpg
+<br /> 1. Every stitched images, with filename 0.jpg, 1.jpg, 2.jpg, ...
+<br /> 2. A aligned image aligned.jpg
+<br /> 3. A cropped image cropped.jpg
 
 # Usage
-$ python main.py <input img dir>
-$ python main.py ./images
+<br />$ python main.py <input img dir>
+<br />$ python main.py ./images
